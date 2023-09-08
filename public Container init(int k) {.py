@@ -59,4 +59,4 @@ public Container init(int k) {
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		this.setLocationRelativeTo(null);
 		return cn;
-	}
+	longphan
