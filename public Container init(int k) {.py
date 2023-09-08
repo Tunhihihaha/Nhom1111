@@ -60,4 +60,3 @@ public Container init(int k) {
 		this.setLocationRelativeTo(null);
 		return cn;
 	}
-Sửa cc
